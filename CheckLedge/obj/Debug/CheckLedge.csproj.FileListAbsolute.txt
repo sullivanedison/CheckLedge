@@ -1,1 +1,14 @@
 C:\Workspace\CheckLedge\CheckLedge\bin\Debug\CheckLedge.exe.config
+C:\Workspace\CheckLedge\CheckLedge\bin\Debug\CheckLedge.exe
+C:\Workspace\CheckLedge\CheckLedge\bin\Debug\CheckLedge.pdb
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.csprojResolveAssemblyReference.cache
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\Ledger.g.cs
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\App.g.cs
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge_MarkupCompile.cache
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge_MarkupCompile.lref
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\Ledger.baml
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.g.resources
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.Properties.Resources.resources
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.csproj.GenerateResource.Cache
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.exe
+C:\Workspace\CheckLedge\CheckLedge\obj\Debug\CheckLedge.pdb

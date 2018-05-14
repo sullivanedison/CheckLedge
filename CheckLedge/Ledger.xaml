@@ -1,0 +1,41 @@
+﻿<Window x:Name="frmLedger" x:Class="CheckLedge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckLedge"
+        mc:Ignorable="d"
+        Title="CheckLedge - Ledger" Height="490" Width="1030">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" />
+                <MenuItem Header="_Open" />
+                <MenuItem Header="_Save" />
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+            <MenuItem Header="_Accounts">
+                <MenuItem Header="_Select Account" />
+                <Separator />
+                <MenuItem Header="_Create New Account" />
+                <MenuItem Header="_Edit Existing Account" />                
+            </MenuItem>
+            <MenuItem Header="_Billers">
+                <MenuItem Header="_Create New Biller" />
+                <MenuItem Header="_Edit Existing Biller" />
+            </MenuItem>
+            <MenuItem Header="_Tools">
+                <MenuItem Header="_Ad-Hoc Query" />
+                <Separator />
+                <MenuItem Header="_Options" />
+            </MenuItem>
+            <MenuItem Header="_Help" Width="Auto">
+                <MenuItem Header="_CheckLedge Help" />
+                <Separator />
+                <MenuItem Header="_About CheckLedge" />
+            </MenuItem>
+        </Menu>
+        <TextBox AcceptsReturn="True"/>
+    </DockPanel>
+</Window>
